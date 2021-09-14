@@ -85,7 +85,7 @@ p {
   color: var(--secondary-color);
 }
 
-@media (max-width: 600px) {
+@media (min-width: 600px) {
   btn {
     text-align: center;
   }

@@ -84,3 +84,9 @@ p {
   background-color: var(--primary-color);
   color: var(--secondary-color);
 }
+
+@media (max-width: 600px) {
+  btn {
+    text-align: center;
+  }
+}
